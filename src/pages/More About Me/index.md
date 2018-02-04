@@ -3,8 +3,6 @@ title: More About Me
 date: "2018-02-03T22:55:06.086Z"
 ---
 
-![An image](./tomn-beach-crop.jpg)
-
 My passion is working hands on to craft engaging websites and web applications, but web development is my second career. I graduated college with a chemical engineering degree and in my past life worked for many years in the semiconductor industry as an engineer and manager. My last position in that industry was at a small company that supplied equipment for manufacturing circuits on silicon wafers. The company failed financially during one of the many down cycles in that sector of the economy and I was let go. 
 
 I live in Southern California and at the time I lost my job I had a young family to support. My options to remain in the same industry seemed narrow and would have required me to either move out of state or travel abroad extensively. I was determined to stay put where I loved, support my family, and learn something new.
